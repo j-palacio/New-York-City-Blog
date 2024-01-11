@@ -22,9 +22,6 @@ To run this project locally, simply download the provided HTML file (index.html)
 ## Styling with CSS
 The CSS file (**style.css**) provides styling for various elements, enhancing the visual appeal of the blog. It covers styling for the navigation bar, header, articles, images, videos, audio, and the footer.
 
-# Preview
-For a live preview of the New York City Blog, you can visit Codecademy's Preview Page (replace with the actual link if available).
-
 # Contact Information
 Feel free to contact the author, J Palacio, for any inquiries or feedback regarding the blog.
 
