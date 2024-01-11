@@ -30,5 +30,3 @@ Feel free to contact the author, J Palacio, for any inquiries or feedback regard
 Explore the blog and immerse yourself in the richness of New York City!
 
 *Note: This README assumes that you have a basic understanding of HTML and CSS. If you encounter any issues or have suggestions for improvement, feel free to reach out to the author.*
-
-
